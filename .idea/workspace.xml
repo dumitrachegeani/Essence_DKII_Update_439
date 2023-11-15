@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10dab821-7ee4-4146-8b96-17869c3073c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Essence_DKII_Update_439.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ai/AbstractAntharasAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ai/AbstractAntharasAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/AbstractAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/AbstractAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/CharacterAI$Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/CharacterAI$Timer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/CharacterAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/CharacterAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/CtrlIntention.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/CtrlIntention.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$MadnessTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$MadnessTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$NearestTargetComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$NearestTargetComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$RunningTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$RunningTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$SkillAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$SkillAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$TaskComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$TaskComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$TaskType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$TaskType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$Teleport.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$Teleport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$ThinkFollow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI$ThinkFollow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/DefaultAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/NpcAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/NpcAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/PlayableAI$AINextAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/PlayableAI$AINextAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/PlayableAI$NextAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/PlayableAI$NextAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/ai/PlayableAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/ai/PlayableAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$AggroInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$AggroInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$DamageComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$DamageComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$DamageHate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$DamageHate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$HateComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$HateComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$HateInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$HateInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$MPCCDamage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$MPCCDamage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$PartyDamage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList$PartyDamage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/AggroList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$BowTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$BowTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$DeleteTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$DeleteTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$EndSitDownTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$EndSitDownTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$EndStandUpTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$EndStandUpTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$HitTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$HitTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$KickTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$KickTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$NotifyAITask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$NotifyAITask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$UnJailTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks$UnJailTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/GameObjectTasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/model/instances/NpcInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/model/instances/NpcInstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/network/l2/s2c/FlyToLocationPacket$FlyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/network/l2/s2c/FlyToLocationPacket$FlyType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/network/l2/s2c/FlyToLocationPacket.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/network/l2/s2c/FlyToLocationPacket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/skills/SkillEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/skills/SkillEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/skills/SkillInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/skills/SkillInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/templates/item/WeaponTemplate$WeaponType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/templates/item/WeaponTemplate$WeaponType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/l2s/gameserver/templates/item/WeaponTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/l2s/gameserver/templates/item/WeaponTemplate.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2YD2H9EpKBZm1qm9HtC0pDf6obL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/projects/deveoplmentServer/Essence_DKII_Update_439/dist/libs/xmlrpc-server-3.1.3.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="lombok.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/dist/libs/lombok.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.lombok.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\geany\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\projects\deveoplmentServer\Essence_DKII_Update_439" />
+          <option name="myCopyRoot" value="D:\projects\deveoplmentServer\Essence_DKII_Update_439" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\projects\deveoplmentServer\Essence_DKII_Update_439" />
+          <option name="myCopyRoot" value="D:\projects\deveoplmentServer\Essence_DKII_Update_439" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10dab821-7ee4-4146-8b96-17869c3073c4" name="Changes" comment="" />
+      <created>1700045738807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700045738807</updated>
+      <workItem from="1700045741376" duration="2050000" />
+      <workItem from="1700047827420" duration="1424000" />
+      <workItem from="1700049276863" duration="1013000" />
+      <workItem from="1700050331359" duration="2037000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
